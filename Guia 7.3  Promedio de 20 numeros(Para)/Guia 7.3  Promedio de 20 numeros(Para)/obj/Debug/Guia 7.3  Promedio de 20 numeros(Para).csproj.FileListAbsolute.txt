@@ -1,0 +1,7 @@
+C:\Users\Herna\source\repos\Guia 7.3  Promedio de 20 numeros(Para)\Guia 7.3  Promedio de 20 numeros(Para)\bin\Debug\Guia 7.3  Promedio de 20 numeros(Para).exe.config
+C:\Users\Herna\source\repos\Guia 7.3  Promedio de 20 numeros(Para)\Guia 7.3  Promedio de 20 numeros(Para)\bin\Debug\Guia 7.3  Promedio de 20 numeros(Para).exe
+C:\Users\Herna\source\repos\Guia 7.3  Promedio de 20 numeros(Para)\Guia 7.3  Promedio de 20 numeros(Para)\bin\Debug\Guia 7.3  Promedio de 20 numeros(Para).pdb
+C:\Users\Herna\source\repos\Guia 7.3  Promedio de 20 numeros(Para)\Guia 7.3  Promedio de 20 numeros(Para)\obj\Debug\Guia 7.3  Promedio de 20 numeros(Para).csproj.AssemblyReference.cache
+C:\Users\Herna\source\repos\Guia 7.3  Promedio de 20 numeros(Para)\Guia 7.3  Promedio de 20 numeros(Para)\obj\Debug\Guia 7.3  Promedio de 20 numeros(Para).csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 7.3  Promedio de 20 numeros(Para)\Guia 7.3  Promedio de 20 numeros(Para)\obj\Debug\Guia 7.3  Promedio de 20 numeros(Para).exe
+C:\Users\Herna\source\repos\Guia 7.3  Promedio de 20 numeros(Para)\Guia 7.3  Promedio de 20 numeros(Para)\obj\Debug\Guia 7.3  Promedio de 20 numeros(Para).pdb

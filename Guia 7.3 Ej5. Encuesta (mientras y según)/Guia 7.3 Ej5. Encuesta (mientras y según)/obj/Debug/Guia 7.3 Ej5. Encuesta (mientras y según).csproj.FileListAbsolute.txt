@@ -1,0 +1,8 @@
+C:\Users\Herna\source\repos\Guia 7.3 Ej5. Encuesta (mientras y según)\Guia 7.3 Ej5. Encuesta (mientras y según)\bin\Debug\Guia_7._3_Ej5.Encuesta__mientras_y_según_.exe.config
+C:\Users\Herna\source\repos\Guia 7.3 Ej5. Encuesta (mientras y según)\Guia 7.3 Ej5. Encuesta (mientras y según)\bin\Debug\Guia_7._3_Ej5.Encuesta__mientras_y_según_.exe
+C:\Users\Herna\source\repos\Guia 7.3 Ej5. Encuesta (mientras y según)\Guia 7.3 Ej5. Encuesta (mientras y según)\bin\Debug\Guia_7._3_Ej5.Encuesta__mientras_y_según_.pdb
+C:\Users\Herna\source\repos\Guia 7.3 Ej5. Encuesta (mientras y según)\Guia 7.3 Ej5. Encuesta (mientras y según)\obj\Debug\Guia 7.3 Ej5. Encuesta (mientras y según).csproj.AssemblyReference.cache
+C:\Users\Herna\source\repos\Guia 7.3 Ej5. Encuesta (mientras y según)\Guia 7.3 Ej5. Encuesta (mientras y según)\obj\Debug\Guia 7.3 Ej5. Encuesta (mientras y según).csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 7.3 Ej5. Encuesta (mientras y según)\Guia 7.3 Ej5. Encuesta (mientras y según)\obj\Debug\Guia_7._3_Ej5.Encuesta__mientras_y_según_.exe
+C:\Users\Herna\source\repos\Guia 7.3 Ej5. Encuesta (mientras y según)\Guia 7.3 Ej5. Encuesta (mientras y según)\obj\Debug\Guia_7._3_Ej5.Encuesta__mientras_y_según_.pdb
+C:\Users\Herna\source\repos\Guia 7.3 Ej5. Encuesta (mientras y según)\Guia 7.3 Ej5. Encuesta (mientras y según)\obj\Debug\Guia_7._3_Ej5.Encuesta__mientras_y_según_.exe.config

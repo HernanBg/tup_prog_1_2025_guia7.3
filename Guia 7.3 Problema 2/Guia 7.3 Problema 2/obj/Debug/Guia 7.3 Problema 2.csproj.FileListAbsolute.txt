@@ -1,0 +1,7 @@
+C:\Users\Herna\source\repos\Guia 7.3 Problema 2\Guia 7.3 Problema 2\bin\Debug\Guia 7.3 Problema 2.exe.config
+C:\Users\Herna\source\repos\Guia 7.3 Problema 2\Guia 7.3 Problema 2\bin\Debug\Guia 7.3 Problema 2.exe
+C:\Users\Herna\source\repos\Guia 7.3 Problema 2\Guia 7.3 Problema 2\bin\Debug\Guia 7.3 Problema 2.pdb
+C:\Users\Herna\source\repos\Guia 7.3 Problema 2\Guia 7.3 Problema 2\obj\Debug\Guia 7.3 Problema 2.csproj.AssemblyReference.cache
+C:\Users\Herna\source\repos\Guia 7.3 Problema 2\Guia 7.3 Problema 2\obj\Debug\Guia 7.3 Problema 2.csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 7.3 Problema 2\Guia 7.3 Problema 2\obj\Debug\Guia 7.3 Problema 2.exe
+C:\Users\Herna\source\repos\Guia 7.3 Problema 2\Guia 7.3 Problema 2\obj\Debug\Guia 7.3 Problema 2.pdb

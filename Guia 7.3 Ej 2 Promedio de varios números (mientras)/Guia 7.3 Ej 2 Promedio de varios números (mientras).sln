@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guia 7.3 Ej 2 Promedio de varios números (mientras)", "Guia 7.3 Ej 2 Promedio de varios números (mientras)\Guia 7.3 Ej 2 Promedio de varios números (mientras).csproj", "{CCC4079E-7711-4FD3-8147-5530EC74F63B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC4079E-7711-4FD3-8147-5530EC74F63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC4079E-7711-4FD3-8147-5530EC74F63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC4079E-7711-4FD3-8147-5530EC74F63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC4079E-7711-4FD3-8147-5530EC74F63B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA070F0-92DC-472B-9CC3-3F1C21B5A33B}
+	EndGlobalSection
+EndGlobal

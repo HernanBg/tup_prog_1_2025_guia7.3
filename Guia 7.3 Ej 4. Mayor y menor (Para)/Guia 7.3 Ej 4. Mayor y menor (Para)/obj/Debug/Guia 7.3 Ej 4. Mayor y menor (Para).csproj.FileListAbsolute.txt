@@ -1,0 +1,7 @@
+C:\Users\Herna\source\repos\Guia 7.3 Ej 4. Mayor y menor (Para)\Guia 7.3 Ej 4. Mayor y menor (Para)\bin\Debug\Guia_7._3_Ej_4.Mayor_y_menor__Para_.exe.config
+C:\Users\Herna\source\repos\Guia 7.3 Ej 4. Mayor y menor (Para)\Guia 7.3 Ej 4. Mayor y menor (Para)\bin\Debug\Guia_7._3_Ej_4.Mayor_y_menor__Para_.exe
+C:\Users\Herna\source\repos\Guia 7.3 Ej 4. Mayor y menor (Para)\Guia 7.3 Ej 4. Mayor y menor (Para)\bin\Debug\Guia_7._3_Ej_4.Mayor_y_menor__Para_.pdb
+C:\Users\Herna\source\repos\Guia 7.3 Ej 4. Mayor y menor (Para)\Guia 7.3 Ej 4. Mayor y menor (Para)\obj\Debug\Guia 7.3 Ej 4. Mayor y menor (Para).csproj.AssemblyReference.cache
+C:\Users\Herna\source\repos\Guia 7.3 Ej 4. Mayor y menor (Para)\Guia 7.3 Ej 4. Mayor y menor (Para)\obj\Debug\Guia 7.3 Ej 4. Mayor y menor (Para).csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 7.3 Ej 4. Mayor y menor (Para)\Guia 7.3 Ej 4. Mayor y menor (Para)\obj\Debug\Guia_7._3_Ej_4.Mayor_y_menor__Para_.exe
+C:\Users\Herna\source\repos\Guia 7.3 Ej 4. Mayor y menor (Para)\Guia 7.3 Ej 4. Mayor y menor (Para)\obj\Debug\Guia_7._3_Ej_4.Mayor_y_menor__Para_.pdb

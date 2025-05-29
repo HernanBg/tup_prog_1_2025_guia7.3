@@ -1,0 +1,7 @@
+C:\Users\Herna\source\repos\Guia 7.3 Ej 2 Promedio de varios números (mientras)\Guia 7.3 Ej 2 Promedio de varios números (mientras)\obj\Debug\Guia 7.3 Ej 2 Promedio de varios números (mientras).csproj.AssemblyReference.cache
+C:\Users\Herna\source\repos\Guia 7.3 Ej 2 Promedio de varios números (mientras)\Guia 7.3 Ej 2 Promedio de varios números (mientras)\obj\Debug\Guia 7.3 Ej 2 Promedio de varios números (mientras).csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 7.3 Ej 2 Promedio de varios números (mientras)\Guia 7.3 Ej 2 Promedio de varios números (mientras)\bin\Debug\Guia 7.3 Ej 2 Promedio de varios números (mientras).exe.config
+C:\Users\Herna\source\repos\Guia 7.3 Ej 2 Promedio de varios números (mientras)\Guia 7.3 Ej 2 Promedio de varios números (mientras)\bin\Debug\Guia 7.3 Ej 2 Promedio de varios números (mientras).exe
+C:\Users\Herna\source\repos\Guia 7.3 Ej 2 Promedio de varios números (mientras)\Guia 7.3 Ej 2 Promedio de varios números (mientras)\bin\Debug\Guia 7.3 Ej 2 Promedio de varios números (mientras).pdb
+C:\Users\Herna\source\repos\Guia 7.3 Ej 2 Promedio de varios números (mientras)\Guia 7.3 Ej 2 Promedio de varios números (mientras)\obj\Debug\Guia 7.3 Ej 2 Promedio de varios números (mientras).exe
+C:\Users\Herna\source\repos\Guia 7.3 Ej 2 Promedio de varios números (mientras)\Guia 7.3 Ej 2 Promedio de varios números (mientras)\obj\Debug\Guia 7.3 Ej 2 Promedio de varios números (mientras).pdb

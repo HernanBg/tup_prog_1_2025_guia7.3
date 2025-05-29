@@ -1,0 +1,8 @@
+C:\Users\Herna\source\repos\Guia 7.3 Matriz(Paras anidados)\Guia 7.3 Matriz(Paras anidados)\obj\Debug\Guia 7.3 Matriz(Paras anidados).csproj.AssemblyReference.cache
+C:\Users\Herna\source\repos\Guia 7.3 Matriz(Paras anidados)\Guia 7.3 Matriz(Paras anidados)\obj\Debug\Guia 7.3 Matriz(Paras anidados).csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 7.3 Matriz(Paras anidados)\Guia 7.3 Matriz(Paras anidados)\bin\Debug\Guia 7.3 Matriz(Paras anidados).exe.config
+C:\Users\Herna\source\repos\Guia 7.3 Matriz(Paras anidados)\Guia 7.3 Matriz(Paras anidados)\bin\Debug\Guia 7.3 Matriz(Paras anidados).exe
+C:\Users\Herna\source\repos\Guia 7.3 Matriz(Paras anidados)\Guia 7.3 Matriz(Paras anidados)\bin\Debug\Guia 7.3 Matriz(Paras anidados).pdb
+C:\Users\Herna\source\repos\Guia 7.3 Matriz(Paras anidados)\Guia 7.3 Matriz(Paras anidados)\obj\Debug\Guia 7.3 Matriz(Paras anidados).exe
+C:\Users\Herna\source\repos\Guia 7.3 Matriz(Paras anidados)\Guia 7.3 Matriz(Paras anidados)\obj\Debug\Guia 7.3 Matriz(Paras anidados).pdb
+C:\Users\Herna\source\repos\Guia 7.3 Matriz(Paras anidados)\Guia 7.3 Matriz(Paras anidados)\obj\Debug\Guia 7.3 Matriz(Paras anidados).exe.config
